@@ -25,3 +25,5 @@ A dynamic image search application built with ReactJS, leveraging the power of t
 3.  Install dependencies: `npm install`.
 4.  Obtain your Unsplash API key from [Unsplash Developer](https://unsplash.com/developers) .
 5.  Start the development server: `npm start`.
+
+Live demo [Search Images](https://rutvik-search-images.netlify.app/)
